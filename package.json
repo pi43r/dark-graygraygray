@@ -3,7 +3,7 @@
     "displayName": "Dark Gray Gray Gray",
     "description": "A dark gray color theme for Visual Studio Code",
     "version": "0.0.1",
-    "publisher": "pi43r - fork by kendama1980",
+    "publisher": "pi43r - fork from kendama1980",
     "engines": {
         "vscode": "^1.25.0"
     },
